@@ -1,0 +1,7 @@
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojAssemblyReference.cache
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csproj.CoreCompileInputs.cache
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+O:\Bootcamp 33\VS\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
